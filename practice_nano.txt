@@ -1,0 +1,4 @@
+creating a folder using cli : mkdir name_of_folder
+creating a file using cli : touch name_of_file.file_type (py- python, txt- text)
+editing a file using cli : nano file_name
+saving a file in nano : ctrl+x,y,enter

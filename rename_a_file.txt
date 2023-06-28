@@ -1,0 +1,6 @@
+git mv is the command that can help you with renaming.
+git mv is the equivalent to the following three comands:
+	mv old_file.md new_file.md
+	git add new_file.md
+	git rm old_file.md
+git mv <old file path><renamed file path>
